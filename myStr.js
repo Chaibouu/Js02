@@ -1,3 +1,3 @@
 //Déclaration de la variable myStr
-var myStr = "Ceci est le debut" +" "+ "ceci est le fin";
+var myStr = "This is the start" +" "+ "This is the end";
 console.log( myStr);
